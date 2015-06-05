@@ -1,0 +1,5 @@
+# Build directory
+dist
+
+# Mac OS X temporary files
+.DS_Store
