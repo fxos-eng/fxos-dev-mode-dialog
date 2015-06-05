@@ -8,9 +8,5 @@
     "type": "git",
     "url": "git@github.com:fxos/fxos-dev-mode-dialog.git"
   },
-  "license": "MPL",
-  "dependencies": {
-    "gulp": "3.8.x",
-    "gulp-6to5": "^1.0.2"
-  }
+  "license": "MPL"
 }

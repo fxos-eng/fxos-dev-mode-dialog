@@ -7,7 +7,6 @@
   "main": "fxos-dev-mode-dialog.js",
   "ignore": [
     "**/.*",
-    "node_modules",
     "package.json",
     "README.md"
   ]
