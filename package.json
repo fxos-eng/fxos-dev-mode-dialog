@@ -1,7 +1,7 @@
 {
   "name": "fxos-dev-mode-dialog",
   "description": "Developer Mode prompt for Gaia apps.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "fxos-dev-mode-dialog.js",
   "scripts": {},
   "repository": {
